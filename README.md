@@ -43,7 +43,8 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="944" height="398" alt="image" src="https://github.com/user-attachments/assets/9812eb7b-c331-441c-831b-ae1ecc0554a2" />
+<img width="815" height="348" alt="image" src="https://github.com/user-attachments/assets/5b937f21-deca-439a-85ae-aec9a600ef19" />
+
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
 ```
 #include <stdio.h>
@@ -88,22 +89,6 @@ int main() {
 }
 ```
 ## OUTPUT
-<img width="833" height="481" alt="image" src="https://github.com/user-attachments/assets/b0a67616-32b3-4a07-80e0-baac60ed3f42" />
-## RESULT:
-The programs are executed successfully.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="816" height="472" alt="image" src="https://github.com/user-attachments/assets/65332d2b-4206-4561-9bbd-540919b1db46" />
 # RESULT:
 The programs are executed successfully.
